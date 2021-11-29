@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.anukul.sfgpetclinic.SfgPetClinicApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.299 s - in com.anukul.sfgpetclinic.SfgPetClinicApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.093 s - in com.anukul.sfgpetclinic.SfgPetClinicApplicationTests
